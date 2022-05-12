@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": “XBPPKN5878.idv.aqua.catalyst.test",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
+
